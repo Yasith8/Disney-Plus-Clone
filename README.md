@@ -3,6 +3,8 @@
 
 This is a movie app built using React and the TMDB API. It allows users to browse and discover movies based on different genres and production houses. The app also features a slider component and a footer component.
 
+Production Deployment : https://disney-plus-clone-beryl-five.vercel.app/
+
 
 
 
